@@ -1,0 +1,60 @@
+{
+	"distance": {
+		"Feets": {
+			"name": "ft",
+			"Unit": {
+				"Centimeters": {
+					"Value": 30
+				}
+			}
+		},
+		"Inches": {
+			"name": "in",
+			"Unit": {
+				"Centimeters": {
+					"Value": 2.54
+				}
+			}
+		},
+		"Meters": {
+			"name": "m",
+			"Unit": {
+				"Centimeters": {
+					"Value": 100
+				}
+			}
+		},
+		"Centimeters": {
+			"name": "cm",
+			"Unit": {
+				"Centimeters": {
+					"Value": 1
+				}
+			}
+		},
+		"Millimeters": {
+			"name": "mm",
+			"Unit": {
+				"Centimeters": {
+					"Value": 0.1
+				}
+			}
+		},
+		"Yards": {
+			"name": "yd",
+			"Unit": {
+				"Centimeters": {
+					"Value": 91
+				}
+			}
+		},
+		"Kilometrs": {
+			"name": "km",
+			"Unit": {
+				"Centimeters": {
+					"Value": 100000
+				}
+			}
+		}
+	}
+}
